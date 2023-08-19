@@ -27,4 +27,4 @@ Open the HTML file in a web browser.
 ## Acknowledgments
 I extend my gratitude to the Apna College YouTube channel for providing invaluable guidance and inspiration during the creation of this project.
 
-## Feel free to customize and expand upon this content to provide more details about your project and your experience working on it 😄🚀
+## Feel free to customize and expand upon this content to provide more details about your project and your experience working on it 🚀
