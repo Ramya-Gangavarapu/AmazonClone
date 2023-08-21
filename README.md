@@ -1,5 +1,4 @@
 # Amazon Clone Project
-## Welcome to the Amazon Clone Project, a meticulously crafted e-commerce platform that closely emulates the renowned Amazon experience. This project was developed using cutting-edge technologies and frameworks to offer users an authentic shopping encounter.
 
 # Project Description
 This project is an AMAZON CLONE built using HTML and CSS. It was inspired by Shradha from Apna College's YouTube channel.
